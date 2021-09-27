@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agileAlligator
-- 👀 I’m interested in cybersecurity and open source software development
+- 👀 I’m interested in cybersecurity, web development and open source software development
 - 🌱 I’m currently in a 4 year BTech CSE course
 
 <!---
