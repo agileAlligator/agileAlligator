@@ -2,7 +2,7 @@
 
 solutions engineer at Gruve. i came up through security operations and digital forensics, and these days most of my work is on agentic systems and the tooling around them.
 
-i like building things and taking them apart to see where they give. some of it is serious, some of it is just for fun.
+i like building things and taking them apart to see where they give.
 
 **a few things i've made**
 
